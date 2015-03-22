@@ -3,7 +3,7 @@
 # of matrices repeatedly.
 
 # This first function uses the input matrix and creates a list that contains 
-# functions that will do the following:
+# functions that will do the following (see comments below):
 
 #1 set the value of the matrix
 #2 get the value of the input matrix
